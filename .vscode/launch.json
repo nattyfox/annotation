@@ -1,0 +1,42 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AnnotationTest",
+            "request": "launch",
+            "mainClass": "annotations.AnnotationTest",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MathTest",
+            "request": "launch",
+            "mainClass": "annotations.MathTest",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UseCaseTracker",
+            "request": "launch",
+            "mainClass": "annotations.UseCaseTracker",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AnnotationDemo",
+            "request": "launch",
+            "mainClass": "annotations.AnnotationDemo",
+            "projectName": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "main"
+        }
+    ]
+}
